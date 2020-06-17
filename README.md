@@ -1,12 +1,12 @@
 # Clone of Discord App
 
-Linguagem: Typescript
+Lang: Typescript
 
-Tecnologias: ReactJS
+Tech: ReactJS
 
 Libs: Styled Components...
 
---- Descrição ---
+--- Description ---
 
 React frontend application, a Discord clone!!!
 
